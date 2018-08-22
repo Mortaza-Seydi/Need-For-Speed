@@ -13,8 +13,8 @@
 
 ## Build
 1. Connect to Internet to download Gradle files
-2. set **Working Directory** in ` .../core/assets `
-3. Run ` desktop/srx/.../DesktopLauncher.java `
+2. set **Working Directory** on ` .../core/assets `
+3. Run ` desktop/src/.../DesktopLauncher.java `
 
 ## Previews
 
