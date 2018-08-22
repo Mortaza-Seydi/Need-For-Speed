@@ -1,5 +1,5 @@
 # Need For Speed Hot Java (Racing Simulation)
-#### NFS with _LibGDX_ And _BOX2D_, _Tiled Map_
+#### NFS with _LibGDX_, _BOX2D_ And _Tiled Map_
 
 ## Features 
 *
