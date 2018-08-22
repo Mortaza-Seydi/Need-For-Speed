@@ -44,7 +44,7 @@
 
 
 ### Police
-* If your Speed is upper than **(`MaxV / 2`)** you get a **warning** to **stop** the car, if you did not the police starts to **follow** you, if he can **catch** you, you have to **pay** but you can **run away** any ways.
+* If your Speed is upper than **(`MaxV / 2`)** you get a **warning** to **stop** the car, if you did not stop the car, police starts to **follow** you, if he can **catch** you, you have to **pay** but you can **run away**
 
 ![Police](./previews/3.jpg)
 ##
