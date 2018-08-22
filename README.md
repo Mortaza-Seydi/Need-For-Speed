@@ -13,13 +13,13 @@
 
 ## Build
 1. Connect to Internet to download Gradle files
-2. set **Working Directory** on ` core/assets `
+2. Set **Working Directory** on ` core/assets `
 3. Run ` desktop/src/.../DesktopLauncher.java `
 
 ## Previews
 
 ### Setting Screen
-* Here you can set some variables like ` Max Velocity, Acceleration and Fuel `, ` First Acceleration `, ` Wallet ` and ` Fuel consumption `
+* Here you can set some variables like ` max velocity, acceleration and fuel `, ` first acceleration `, ` wallet ` and ` fuel consumption `
 * Select **dry** weather or enter a number from 0 to 10 for **wet** weather ` (0:snow - 10:rain) `
 * Click **OK** to go 
 
@@ -32,8 +32,8 @@
 
 ### Main Screen
 * In this Screen you see some details like ` time `, ` distance `, ` max and current velocity `, ` max and current acceleration `, ` max and current fuel `, ` tire health `, ` wallet `, ` weather ` and ` max break acceleration ` 
-* Use _Arrow-Up_ key to **accelerate** and _Arrow-Down_ to **break**
-* Use _Arrow-Right_ key to go **right** and _Arrow-Left_ to go **left**
+* Use _Arrow-Up_ to **accelerate** and _Arrow-Down_ to **break**
+* Use _Arrow-Right_ to go **right** and _Arrow-Left_ to go **left**
 * Press _space_ button to **pause**
 
 ![Main Screen](./previews/2.jpg)
@@ -75,6 +75,6 @@
 
 
 ### Speed Controller Camera
-* If your **Speed** is upper than **(`MaxV / 2`)** you have to Pay
+* If your **Speed** is upper than **(`MaxV / 2`)** you have to pay
 
 ![Speed Controller Camera](./previews/6.jpg)
