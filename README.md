@@ -1,5 +1,5 @@
 # Need For Speed Hot Java (Racing Simulation)
-#### NFS with _LibGDX_ And _BOX2D_ And _Tiled Map_
+#### NFS with _LibGDX_ And _BOX2D_, _Tiled Map_
 
 ## Features 
 *
@@ -44,7 +44,7 @@
 
 
 ### Police
-* If your Speed is upper than **(`MaxV / 2`)** you get a **warning** to **stop** the car, if you did not the police starts to **...** yoy, if he can **catch** you, you have to **pay** but you can **run away** any ways.
+* If your Speed is upper than **(`MaxV / 2`)** you get a **warning** to **stop** the car, if you did not the police starts to **follow** you, if he can **catch** you, you have to **pay** but you can **run away** any ways.
 
 ![Police](./previews/3.jpg)
 ##
