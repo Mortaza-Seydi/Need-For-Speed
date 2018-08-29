@@ -3,7 +3,8 @@
 
 ## Features 
 * Developed with **LibGDX** game engine, **Box2D** physics engine and **TiledMap**
-* All vehicle motion variables are calculated according to the laws of physics.
+* All vehicle motion variables are calculated according to the laws of physics
+![Formula](./previews/7.jpg)
 * Brake acceleration is calculated by the formula ` uk * g `, and ` g = 10 M/s^2 `, uk depends on the type of road(asphalt, dirt and sand), weather(dry and wet(0 to 10)) and tire health(0 to 100).
 * Fuel is low due to fuel consumption and tire's health according to its status
 * There is wallet to pay
